@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    margin-top: 10ch;
+}
+
+.section-1 {
+    border: darkmagenta;
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+form div {
+    margin: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: floralwhite;
+}
+
+form div input {
+    border: 2px solid tan;
+    border-radius: 3px;
+}
+h1 {
+    margin-bottom: 50px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 600;
+    font-size: 40px;
+    color: darkgoldenrod;
+}

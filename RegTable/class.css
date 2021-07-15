@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color:rosybrown;
+    flex: none;
+}
+
+.regTable {
+    background-color: whitesmoke;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 5ch;
+    justify-content: center;
+
+}
+
+form div {
+    margin: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: blue;
+}
+
+form div input {
+    border: 2px solid tan;
+    border-radius: 3px;
+}
+
+#submit {
+    border: 2px solid rgb(83, 72, 56);
+    border-radius: 3px;
+    padding: 20px 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 600;
+    color: whitesmoke;
+    background-color: black;
+    letter-spacing: 8px;
+}
+
+h1 {
+    margin-bottom: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 600;
+    font-size: 40px;
+    color: rgb(83, 72, 56);
+}
